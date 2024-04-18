@@ -1,0 +1,25 @@
+{
+    "name": "sealList",
+    "sealList": [
+        {
+            "name": "Renamon",
+            "tier": 1,
+            "stat": "HT"
+        },
+        {
+            "name": "Renamerda",
+            "tier": 2,
+            "stat": "HT"
+        },
+        {
+            "name": "Rejaja",
+            "tier": 1,
+            "stat": "HT"
+        },
+        {
+            "name": "Caramba",
+            "tier": 3,
+            "stat": "HT"
+        }
+    ]
+}
